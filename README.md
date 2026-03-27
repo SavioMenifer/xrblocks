@@ -1,8 +1,8 @@
 # XR Blocks
 
 [![NPM Package](https://img.shields.io/npm/v/xrblocks)](https://www.npmjs.com/package/xrblocks)
-[![jsDelivr npm hits](https://img.shields.io/jsdelivr/npm/hw/xrblocks?label=jsdelivr%20\(npm\))](https://www.jsdelivr.com/package/npm/xrblocks)
-[![jsDelivr GitHub hits](https://img.shields.io/jsdelivr/gh/hw/google/xrblocks?label=jsdelivr%20\(GitHub\))](https://www.jsdelivr.com/package/gh/google/xrblocks)
+[![jsDelivr npm hits](<https://img.shields.io/jsdelivr/npm/hw/xrblocks?label=jsdelivr%20(npm)>)](https://www.jsdelivr.com/package/npm/xrblocks)
+[![jsDelivr GitHub hits](<https://img.shields.io/jsdelivr/gh/hw/google/xrblocks?label=jsdelivr%20(GitHub)>)](https://www.jsdelivr.com/package/gh/google/xrblocks)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.25504-b31b1b.svg)](https://arxiv.org/abs/2509.25504)
 [![arXiv](https://img.shields.io/badge/arXiv-2603.24591-b31b1b.svg)](https://arxiv.org/abs/2603.24591)
 
@@ -33,19 +33,19 @@ includes a powerful desktop simulator for development. The framework emphasizes
 a user-centric, developer-friendly SDK designed to simplify the creation of
 immersive applications with features like:
 
--   **Hand Tracking & Gestures:** Access advanced hand tracking, custom gestures
-    with TensorFlow Lite / PyTorch models, and interaction events.
--   **Gesture Recognition:** Opt into pinch, open-palm, fist, thumbs-up, point,
-    and spread detection with `options.enableGestures()`, tune providers or
-    thresholds, and subscribe to `gesturestart`/`gestureupdate`/`gestureend`
-    events from the shared subsystem.
--   **World Understanding:** Present samples with depth sensing, geometry-aware
-    physics, and object recognition with Gemini in both XR and desktop
-    simulator.
--   **AI Integration:** Seamlessly connect to Gemini for multimodal
-    understanding and live conversational experiences.
--   **Cross-Platform:** Write once and deploy to both XR devices and desktop
-    Chrome browsers.
+- **Hand Tracking & Gestures:** Access advanced hand tracking, custom gestures
+  with TensorFlow Lite / PyTorch models, and interaction events.
+- **Gesture Recognition:** Opt into pinch, open-palm, fist, thumbs-up, point,
+  and spread detection with `options.enableGestures()`, tune providers or
+  thresholds, and subscribe to `gesturestart`/`gestureupdate`/`gestureend`
+  events from the shared subsystem.
+- **World Understanding:** Present samples with depth sensing, geometry-aware
+  physics, and object recognition with Gemini in both XR and desktop
+  simulator.
+- **AI Integration:** Seamlessly connect to Gemini for multimodal
+  understanding and live conversational experiences.
+- **Cross-Platform:** Write once and deploy to both XR devices and desktop
+  Chrome browsers.
 
 We welcome all contributors to foster an AI + XR community! Read our
 [blog post](https://research.google/blog/xr-blocks-accelerating-ai-xr-innovation/)
@@ -280,9 +280,9 @@ as:
 
 ### Terms of Service
 
--   Please follow
-    [Google's Privacy & Terms](https://policies.google.com/privacy?hl=en-US)
-    when using this SDK.
+- Please follow
+  [Google's Privacy & Terms](https://policies.google.com/privacy?hl=en-US)
+  when using this SDK.
 
--   When using AI features in this SDK, please follow
-    [Gemini's Privacy & Terms](https://ai.google.dev/gemini-api/terms).
+- When using AI features in this SDK, please follow
+  [Gemini's Privacy & Terms](https://ai.google.dev/gemini-api/terms).
